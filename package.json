@@ -20,5 +20,8 @@
     "moment": "^2.20.1",
     "via-table": "^0.2.0"
   },
+  "deserializers": {
+    "Fills": "deserialize"
+  },
   "providedServices": {}
 }
